@@ -1,1 +1,1 @@
-gamedev-fyi-base
+Denmark gamedev-fyi resource list

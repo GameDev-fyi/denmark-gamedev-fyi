@@ -1,14 +1,14 @@
-baseURL = "https://SOMETHING.gamedev.fyi/"
+baseURL = "https://denmark.gamedev.fyi/"
 languageCode = "en-us"
-title = "SOMETHING GameDev FYI"
+title = "Denmark GameDev FYI"
 theme = "gamedev-fyi-theme"
 googleAnalytics = "UA-60001962-9"
 
 
 [Params]
-  description = "A resource for all game development related things in SOMETHING."
+  description = "A resource for all game development related things in Denmark."
   twitter = "https://twitter.com/GameDevFYI"
   email = "admin@gamedev.fyi"
-  keywords = "Game, GameDev, SOMETHING"
+  keywords = "Game, GameDev, Denmark"
   dateFormat = "January 2, 2006"
   author = "Goose Ninja"
